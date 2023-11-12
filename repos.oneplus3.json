@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel_oneplus_msm8996",
-      "repo": "https://githubfast.com/Akitlove/kernel_oneplus_msm8996",
+      "repo": "https://github.com/Akitlove/kernel_oneplus_msm8996",
       "branch": "eas-thermal-simple",
       "device": "oneplus3",
       "defconfig": "lineageos_oneplus3_defconfig"
@@ -10,7 +10,7 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/Akitlove/android-kernel-tools",
+        "repo": "https://githubfast.com/Akitlove/android-kernel-tools",
         "branch": "clang13",
         "name": "clang13",
         "binPath": ["./bin"]
@@ -38,7 +38,7 @@
     "AnyKernel3": {
       "use": false,
       "release": false,
-      "repo": "https://github.com/Akitlove/AnyKernel3",
+      "repo": "https://githubfast.com/Akitlove/AnyKernel3",
       "branch": "master"
     }
   }
