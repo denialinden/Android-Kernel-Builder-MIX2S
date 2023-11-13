@@ -4,7 +4,7 @@
       "name": "kernel_oneplus_msm8996",
       "repo": "https://github.com/Akitlove/kernel_oneplus_msm8996",
       "branch": "eas-thermal-simple",
-      "device": "oneplus3",
+      "device": "oneplus3-R",
       "defconfig": "lineageos_oneplus3_defconfig"
     },
     "withKernelSU": false,
