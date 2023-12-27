@@ -20,8 +20,8 @@
       "ARCH": "arm64",
       "CC": "clang13/clang/host/linux-x86/clang-r428724/bin/clang",
       "externalCommand": {
-        "CROSS_COMPILE": "clang13/linaro-gcc-4.9/aarch64-linux-gnu/bin/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "clang13/linaro-gcc-4.9/arm-linux-gnueabi/bin/arm-linux-gnueabi-",
+        "CROSS_COMPILE": "aarch64-linux-gnu-",
+        "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
         "AR": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-ar",
         "NM": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-nm",
         "OBJCOPY": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-objcopy",
