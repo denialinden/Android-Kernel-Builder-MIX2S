@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "NitroGas",
-      "repo": "https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo",
-      "branch": "14.0",
+      "name": "Dens_Perf",
+      "repo": "https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo/tree/Fourteen",
+      "branch": "Fourteen",
       "device": "ginkgo",
-      "defconfig": "polaris_defconfig"
+      "defconfig": "vendor/ginkgo-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
