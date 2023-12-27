@@ -10,7 +10,7 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/Ariden24/android-kernel-tools",
+        "repo": "https://github.com/Ariden24/android-kernel-tools-clang-13",
         "branch": "clang13",
         "name": "clang13",
         "binPath": ["./bin"]
