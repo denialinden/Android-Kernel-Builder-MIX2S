@@ -3,8 +3,8 @@
     "kernelSource": {
       "name": "NitroGas",
       "repo": "https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo",
-      "branch": "12.1",
-      "device": "polaris",
+      "branch": "14.0",
+      "device": "ginkgo",
       "defconfig": "polaris_defconfig"
     },
     "withKernelSU": false,
