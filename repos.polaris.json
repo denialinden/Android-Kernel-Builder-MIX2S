@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Dens_Perf",
-      "repo": "https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo/tree/Fourteen",
+      "repo": "https://github.com/denialinden/android_kernel_xiaomi_ginkgo",
       "branch": "Fourteen",
       "device": "ginkgo",
       "defconfig": "vendor/ginkgo-perf_defconfig"
