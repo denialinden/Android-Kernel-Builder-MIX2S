@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel_polaris_sdm846",
-      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_MIMIX2S/tree/12.1",
+      "repo": "https://github.com/Ariden24/android_kernel_xiaomi_MIMIX2S",
       "branch": "12.1",
       "device": "polaris",
       "defconfig": "polaris_defconfig"
